@@ -27,10 +27,14 @@
 
 ### Section 4: Q & A
 
+### Meeting ID
+https://zoom.us/j/3848842750
+
 ## Intros
 1. Let's introduce ourselves
 2. Objectives of the class
 3. Methodology of the class
+4. Software prerequisite: https://www.anaconda.com/download/
 
 ## Question Set: Prediction
 1. What is a prediction?
